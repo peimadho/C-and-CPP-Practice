@@ -23,10 +23,10 @@ Contributions are welcome! If you have your own code examples, challenges, or ex
 ## Getting Started:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/C-and-CPP-Practice.git
-   cd C-and-CPP-Practice
-  ```
+```bash
+git clone https://github.com/your-username/C-and-CPP-Practice.git
+cd C-and-CPP-Practice
+```
 
 2. Explore the folders and choose the topic or difficulty level you want to practice.
 
